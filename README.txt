@@ -1,2 +1,2 @@
-Marg Education International
-this site is designed by Precious Airhunmwunde O.
+#margeducation.co.uk
+ marg Education International website
